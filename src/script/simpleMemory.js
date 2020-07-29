@@ -91,13 +91,13 @@ if (initCheck()) {
         '<div id="rightMenu"></div>';
 
     window.cnblogsConfigDefault = {
-        GhUserName: 'BNDong',
+        GhUserName: 'souluki',
         GhRepositories: 'Cnblogs-Theme-SimpleMemory',
-        GhVersions: 'v1.3.0',
+        GhVersions: 'v1.3.2',
         CnVersions: "",
         blogUser: "",
         blogAvatar: "",
-        blogStartDate: "2019-01-01",
+        blogStartDate: "2019-07-23",
         menuCustomList: {},
         menuNavList: [],
         menuUserInfoBgImg: '',
@@ -174,12 +174,12 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/souluki/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
         ],
         homeBannerText: "",
         homeBannerTextType: "jinrishici",
         essayTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/souluki/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
         ],
         essayCodeHighlightingType: 'cnblogs',
         essayCodeHighlighting: '',
@@ -309,7 +309,7 @@ function getVersionConfig() {
             }
         });
 
-    } else if(window.cnblogsConfig.GhUserName === 'BNDong') {
+    } else if(window.cnblogsConfig.GhUserName === 'souluki') {
         window.themeVersion = [
             [
                 "v1.1.6",
