@@ -174,7 +174,7 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/souluki/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/souluki/Cnblogs-Theme-SimpleMemory@master/img/home_top_bg.jpg"
         ],
         homeBannerText: "",
         homeBannerTextType: "jinrishici",
