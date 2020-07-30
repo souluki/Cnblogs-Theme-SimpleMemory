@@ -93,7 +93,7 @@ if (initCheck()) {
     window.cnblogsConfigDefault = {
         GhUserName: 'souluki',
         GhRepositories: 'Cnblogs-Theme-SimpleMemory',
-        GhVersions: 'v1.3.4',
+        GhVersions: 'v1.4.0',
         CnVersions: "",
         blogUser: "",
         blogAvatar: "",
@@ -176,8 +176,8 @@ if (initCheck()) {
         homeTopImg: [
             "https://cdn.jsdelivr.net/gh/souluki/Cnblogs-Theme-SimpleMemory@master/img/home_top_bg.jpg"
         ],
-        homeBannerText: "",
-        homeBannerTextType: "jinrishici",
+        homeBannerText: "华枝春满，天心月圆。",
+        homeBannerTextType: "one",
         essayTopImg: [
             "https://cdn.jsdelivr.net/gh/souluki/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
         ],
@@ -205,7 +205,7 @@ if (initCheck()) {
             left: "",
             right: "",
         },
-        footerStyle: 2,
+        footerStyle: 1,
         consoleList: [],
         bookList: [],
         themeAuthor: false,
@@ -224,7 +224,7 @@ if (initCheck()) {
             alipay: ''
         },
         weChatOfficialAccounts: '',
-        advertising: true,
+        advertising: false,
     };
 
     window.cnblogsConfigDefault.hook = {
