@@ -176,7 +176,7 @@ if (initCheck()) {
         homeTopImg: [
             "https://cdn.jsdelivr.net/gh/souluki/Cnblogs-Theme-SimpleMemory@master/img/home_top_bg.jpg"
         ],
-        homeBannerText: "华枝春满，天心月圆。",
+        homeBannerText: "华枝春满，天心月圆",
         homeBannerTextType: "one",
         essayTopImg: [
             "https://cdn.jsdelivr.net/gh/souluki/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
@@ -205,7 +205,7 @@ if (initCheck()) {
             left: "",
             right: "",
         },
-        footerStyle: 1,
+        footerStyle: 2,
         consoleList: [],
         bookList: [],
         themeAuthor: false,
@@ -213,9 +213,9 @@ if (initCheck()) {
         switchDayNight: {
             enable: true,
             auto: {
-                enable: false,
-                dayHour: 5,
-                nightHour: 19
+                enable: true,
+                dayHour: 8,
+                nightHour: 18
             }
         },
         reward: {
